@@ -3,8 +3,8 @@ import time
 import keyboard
 import pymem
 
-fj = (0x51ED750)
-lp = (0xD2FB84)
+fj = (0x526B5A0)
+lp = (0xDA746C)
 f = (0x104)
 
 
